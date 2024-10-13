@@ -1,5 +1,5 @@
 function loadRoles() {
-    fetch('https://raw.githubusercontent.com/L9xPhuc/quantro-masoi/refs/heads/main/roles.json') // Đường dẫn GitHub đến file JSON
+    fetch('roles.json') // Đường dẫn GitHub đến file JSON
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok ' + response.statusText);
