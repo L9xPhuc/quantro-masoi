@@ -1,0 +1,55 @@
+{
+  "Phe dân": [
+    {
+      "name": "Dân làng",
+      "main_task": "Bảo vệ dân làng",
+      "description": "Dân làng không có khả năng đặc biệt, nhưng họ cần phát hiện và loại bỏ Ma sói để sống sót."
+    },
+    {
+      "name": "Tiên tri",
+      "main_task": "Dự đoán ai là Ma sói",
+      "description": "Tiên tri có thể mỗi đêm chọn một người để biết họ có phải là Ma sói hay không."
+    },
+    {
+      "name": "Thợ săn",
+      "main_task": "Giết Ma sói",
+      "description": "Thợ săn có thể giết một người khi mình bị giết."
+    }
+  ],
+  "Phe sói": [
+    {
+      "name": "Ma sói",
+      "main_task": "Tiêu diệt dân làng",
+      "description": "Ma sói sẽ họp bàn vào ban đêm để chọn một người dân làng bị giết."
+    },
+    {
+      "name": "Sói trắng",
+      "main_task": "Giúp Ma sói",
+      "description": "Sói trắng sẽ giúp Ma sói trong các cuộc bỏ phiếu."
+    }
+  ],
+  "Phe đổi phe": [
+    {
+      "name": "Kẻ phản bội",
+      "main_task": "Đổi phe",
+      "description": "Kẻ phản bội có thể đổi phe với một người khác."
+    },
+    {
+      "name": "Người yêu",
+      "main_task": "Bảo vệ người yêu",
+      "description": "Người yêu phải bảo vệ người mình yêu và không để họ chết."
+    }
+  ],
+  "Phe khác": [
+    {
+      "name": "Chính trị gia",
+      "main_task": "Lấy lòng dân",
+      "description": "Chính trị gia có thể ảnh hưởng đến kết quả của cuộc bỏ phiếu."
+    },
+    {
+      "name": "Đạo chích",
+      "main_task": "Trộm cắp",
+      "description": "Đạo chích có thể đánh cắp vật phẩm từ người chơi khác."
+    }
+  ]
+}
